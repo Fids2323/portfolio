@@ -16,11 +16,6 @@ const About = () => {
 					latest trends in hardware. In addition, my active participation in sports keeps me physically and mentally fit, allowing me to tackle problems with a clear mind and a positive
 					attitude.
 				</p>
-				<br />
-				<p className="text-xl">
-					Combining technical knowledge and personal interests, I am confident that I can excel in any role as a front-end developer. I am ready to be part of the team and look forward to
-					the opportunities that lie ahead.
-				</p>
 			</div>
 		</div>
 	);
