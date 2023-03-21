@@ -1,5 +1,5 @@
 import yourMeal from "../assets/portfolio/yourMeal.jpg";
-import indoTravel from "../assets/portfolio/indoTravel.jpg";
+import UnderfloorHeating from "../assets/portfolio/UnderfloorHeating.jpg";
 import fastCompany from "../assets/portfolio/fastCompany.jpg";
 import siteAnalitic from "../assets/portfolio/siteAnalitic.jpg";
 import toDo from "../assets/portfolio/toDo.jpg";
@@ -39,9 +39,9 @@ const Portfolio = () => {
 		},
 		{
 			id: 6,
-			src: indoTravel,
-			site: "https://indo-travel.vercel.app/",
-			github: "https://github.com/Fids2323/IndoTravel",
+			src: UnderfloorHeating,
+			site: "https://underfloor-heating-bice.vercel.app/",
+			github: "https://github.com/Fids2323/Underfloor__heating",
 		},
 	];
 
