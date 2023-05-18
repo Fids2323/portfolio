@@ -6,6 +6,10 @@ import git from "../assets/git.png";
 import bootstrap from "../assets/bootstrap.png";
 import tailwind from "../assets/tailwind.png";
 import sass from "../assets/sass.png";
+import nodejs from "../assets/node.png";
+import express from "../assets/express.png";
+import docker from "../assets/docker.png";
+import redux from "../assets/redux.png";
 
 const Experience = () => {
 	const techs = [
@@ -35,27 +39,51 @@ const Experience = () => {
 		},
 		{
 			id: 5,
+			src: redux,
+			title: "Redux Toolkit",
+			style: "shadow-violet-600",
+		},
+		{
+			id: 6,
 			src: tailwind,
 			title: "Tailwind",
 			style: "shadow-sky-400",
 		},
 		{
-			id: 6,
+			id: 7,
 			src: sass,
 			title: "SCSS",
 			style: "shadow-pink-500",
 		},
 		{
-			id: 7,
+			id: 8,
 			src: bootstrap,
 			title: "Bootstrap",
 			style: "shadow-violet-500",
 		},
 		{
-			id: 8,
+			id: 9,
 			src: git,
 			title: "Git",
 			style: "shadow-red-500",
+		},
+		{
+			id: 10,
+			src: nodejs,
+			title: "Node js",
+			style: "shadow-green-500",
+		},
+		{
+			id: 11,
+			src: express,
+			title: "Express js",
+			style: "shadow-gray-400",
+		},
+		{
+			id: 12,
+			src: docker,
+			title: "Docker",
+			style: "shadow-blue-500",
 		},
 	];
 

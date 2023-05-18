@@ -1,8 +1,8 @@
 import yourMeal from "../assets/portfolio/yourMeal.jpg";
 import UnderfloorHeating from "../assets/portfolio/UnderfloorHeating.jpg";
-import fastCompany from "../assets/portfolio/fastCompany.jpg";
+import shop from "../assets/portfolio/shop.jpg";
 import siteAnalitic from "../assets/portfolio/siteAnalitic.jpg";
-import toDo from "../assets/portfolio/toDo.jpg";
+import chik from "../assets/portfolio/chik-chik.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
@@ -21,9 +21,9 @@ const Portfolio = () => {
 		},
 		{
 			id: 3,
-			src: fastCompany,
-			site: "https://fast-comp-react.vercel.app/users",
-			github: "https://github.com/Fids2323/fastComp-React",
+			src: shop,
+			site: "http://45.84.225.33/",
+			github: "https://github.com/Fids2323/Shop",
 		},
 		{
 			id: 4,
@@ -33,9 +33,9 @@ const Portfolio = () => {
 		},
 		{
 			id: 5,
-			src: toDo,
-			site: "https://to-do-lovat-iota.vercel.app/",
-			github: "https://github.com/Fids2323/toDo",
+			src: chik,
+			site: "https://chik-chik-phi.vercel.app/",
+			github: "https://github.com/Fids2323/Chik-chik",
 		},
 		{
 			id: 6,
