@@ -1,6 +1,6 @@
 import yourMeal from "../assets/portfolio/yourMeal.jpg";
 import UnderfloorHeating from "../assets/portfolio/UnderfloorHeating.jpg";
-import shop from "../assets/portfolio/shop.jpg";
+import crm from "../assets/portfolio/crm.png";
 import siteAnalitic from "../assets/portfolio/siteAnalitic.jpg";
 import chik from "../assets/portfolio/chik-chik.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
@@ -21,9 +21,9 @@ const Portfolio = () => {
 		},
 		{
 			id: 3,
-			src: shop,
-			site: "http://45.84.225.33/",
-			github: "https://github.com/Fids2323/Shop",
+			src: crm,
+			site: "https://crm-six-henna.vercel.app/",
+			github: "https://github.com/Fids2323/crm",
 		},
 		{
 			id: 4,
